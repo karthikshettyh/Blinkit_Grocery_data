@@ -1,0 +1,22 @@
+Recently completed a detailed Power BI dashboard project using the BlinkIT Grocery Data to deliver deep insights into product sales, customer ratings, and outlet performance.
+ 
+Key Highlights:
+Built a multi-page interactive dashboard covering key focus areas like:
+Product Category & Item Analysis
+Sales Performance by Outlet Type, Size & Location
+Item Quality & Ratings (with Rating Distribution & Visibility)
+Outlet Performance & Establishment Trends
+
+Features & Insights:
+Used DAX measures to calculate:
+Total Sales, Avg. Ratings, Avg. Visibility, Count by Rating Categories, Total Outlet Type & Count by Year, Visualized data using bar charts, pie charts, line graphs, KPI cards, donut charts & scatter plots.
+Enabled dynamic filtering by Item Type, Outlet Type, Fat Content, Establishment Year, and more.
+Identified top-performing item types and outlet types based on both sales and customer ratings.
+ 
+Skills Applied:
+Data Modeling
+DAX Measures & Calculations
+Visual Design & Custom Tooltips
+Business-level storytelling with data
+ 
+This project demonstrates how a combination of retail analytics, visual storytelling, and Power BI capabilities can drive data-driven decisions across departments like Sales, Marketing, and Operations.
