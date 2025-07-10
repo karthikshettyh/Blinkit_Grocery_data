@@ -1,0 +1,58 @@
+Page 1: Product Category & Item Analysis
+ 
+Analyzed sales performance by product category and item characteristics.
+
+Key Highlights:
+Visualized total sales by Item Type and Fat Content.
+Count of items by Rating Category and by Outlet Location Type.
+Drill-down matrix showing each Item Type's sales, count of ratings, % share, and first occurrence.
+
+Insight: "Fruits & Vegetables" and "Snack Foods" were the top-selling categories. Items with low fat and high ratings performed better.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Page 2: Overall Sales Performance
+ 
+Focused on sales breakdown across outlets, products, and item characteristics.
+ 
+Key Visuals:
+Sales by Outlet Type, Outlet Size, and Outlet Location Type
+Tree Map for Item Fat Content
+KPIs: 🔹 Total Sales | 🔹 Avg Rating | 🔹 Avg Item Weight | 🔹 Avg Visibility
+ 
+Insight: "Supermarket Type 1" and "Tier 3 locations" contributed the most to overall revenue.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Page 3: Item Quality & Rating
+ 
+Focused on customer ratings, item visibility, and distribution across item types.
+ 
+Key Metrics:
+Avg Rating and Avg Visibility by Item Type
+Scatter plot of Rating vs. Visibility
+Detailed rating breakdown (1–5 stars) per item type
+ 
+Insight: Items with higher visibility tend to have more ratings and better average scores. "Meat" and "Household" had the highest average ratings.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Page 4: Outlet Performance & Comparison
+ 
+Deep dive into outlet-level performance, establishment years, and type-based comparisons.
+ 
+Key Visuals:
+Avg Rating by Outlet Type vs. Establishment Year
+Total Sales by Outlet Identifier & Location
+Count of Ratings by Outlet Type
+ 
+Insight: Most sales and ratings come from Supermarket Type 1, especially those established in 2011–2018.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+Page 5: Outlet Establishment Analysis
+ 
+Analyzed outlet performance by year of establishment with detailed comparisons.
+ 
+Key Points:
+Count of Outlets by Year + Total Sales + Avg Rating
+Sales and rating trends across Outlet Type and Size
+Donut chart showing outlet spread by establishment year
+ 
+Insight: Outlets established between 2012–2018 dominated both in sales and customer feedback.
